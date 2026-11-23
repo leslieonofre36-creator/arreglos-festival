@@ -145,7 +145,7 @@ def menu():
         elif opcion == 4:
             playlist_recomendada()
         else:
-            print("¡Hasta luego! Disfruta el festival 🎶")
+            print("¡Hasta luego! Disfruta el festival ")
             break
 if __name__ == "__main__":
     menu()
